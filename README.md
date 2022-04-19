@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eikiesha
-- 👀 I’m a software enguineering student
+- 👀 I’m a software engineering student
 - 🌱 I’m currently learning C++/Java/R-programming
 
 <!---
